@@ -4,7 +4,7 @@
 
 Submitted by: **Junstin Reh**
 
-Time spent: **5** hours spent in total
+Time spent: **8** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/few-spurious-huckleberry?path=index.html%3A1%3A0
 
@@ -65,7 +65,7 @@ https://www.w3schools.com/jsref/met_win_clearinterval.asp
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
-    After I complete this submission, I found web development to be fun. It is similar to iOS development because I can see the changes that I have made instantly. While working on this submission, I had many questions. I wonder how Glitch was able to publish the website that I made and host it for free and how long will it be hosted? How do I make my website look professional? I spend 5 hours on this website and it looked amazing, I wonder how it will look if I spend more time on this. How do I host my own website? These are a few of the questions that I have about web development. I am curious about the possibility that I can do with web development.
+    After I complete this submission, I found web development to be fun. It is similar to iOS development because I can see the changes that I have made instantly. While working on this submission, I had many questions. I wonder how Glitch was able to publish the website that I made and host it for free and how long will it be hosted? How do I make my website look professional? I spend 5 hours on this website (plus 3 hours answering questions) and it looked amazing, I wonder how it will look if I spend more time on this. How do I host my own website? These are a few of the questions that I have about web development. I am curious about the possibility that I can do with web development.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
