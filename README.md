@@ -6,7 +6,7 @@ Submitted by: **Junstin Reh**
 
 Time spent: **5** hours spent in total
 
-Link to project: https://few-spurious-huckleberry.glitch.me/
+Link to project: https://glitch.com/edit/#!/few-spurious-huckleberry?path=index.html%3A1%3A0
 
 ## Required Functionality
 
