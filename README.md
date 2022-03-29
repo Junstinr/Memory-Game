@@ -68,6 +68,7 @@ https://www.w3schools.com/jsref/met_win_clearinterval.asp
     After I complete this submission, I found web development to be fun. It is similar to iOS development because I can see the changes that I have made instantly. While working on this submission, I had many questions. I wonder how Glitch was able to publish the website that I made and host it for free and how long will it be hosted? How do I make my website look professional? I spend 5 hours on this website and it looked amazing, I wonder how it will look if I spend more time on this. How do I host my own website? These are a few of the questions that I have about web development. I am curious about the possibility that I can do with web development.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
     If I had more hours to work on this project, I would add features like animated buttons, animated background. I have seen games where they have an animated button and background that are not too distracting and I think that would look good in this project. Additionally, The pop-up looks plain and it pops up above the website. I would change the pop-up to have a different background color, bigger font, and make the letters red. I would also make it so that it pops up in the middle of the website to make it easier for the player to see it. Finally, I would change the mouse cursor to something more fun, like a hand pointer.
 
 
